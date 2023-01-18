@@ -7,23 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yi SHEN
+    tagline: Symfony Full Stack Developer
+    avatar: yi.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: scheffer.shen@gmail.com
+    phone: 
+    timezone: Europe/Paris Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: scheffershen.github.io/online-cv/ #do not add http://
+    linkedin: shen-yi-333611b
+    github: scheffershen
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: scheffer_shen
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@scheffer_shen'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,189 +31,124 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
         - idiom: French
-          level: Professional
+          level: Bilingual
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Traveling
           link:
 
-        - item: Snowboarding
+        - item: Sports
           link:
 
-        - item: Cooking
+        - item: Learning
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Symfony Full Stack Developer with more than 20 years experiences in web development.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: DESS double compétence, Application de l'informatique aux sciences de la terre
+        university: Université Paris VI, FRANCE
+        time: 1993 - 1994
+      - degree: DEA de Géophysique Interne, Institut de Physique de Globe
+        university: Université Paris VII, FRANCE
+        time: 1992 - 1993
+        details: 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Web Developer
+        time: 2014 - Present
+        company: Universal Medica Groupe, Saint-Cloud, France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          My jobs are to develop new platforms, maintain old platforms, and update old platforms, using Symfony, PHP, Mysql, Bootstrap, jQuery, Ubuntu.
+          - Write specifications with business professionals
+          - Code the whole platform
+          - Perform some unit tests
+          - Write a user manual
+      - role: Web Developer
+        time: 1999 - 2013
+        company: Empreint Multimedia SA, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          My job was to create a web TV platform, and then maintain and update it using PHP, Mysql, Bootstrap, jQuery, Ubuntu.
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I had carried out many of the company's projects for its business needs, its customers and its general public.
     assignments:
-      - title: Velocity
+      - title: Veille
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "The plateforme to detect keywords in medical journals at PDF format"
 
-      - title: DevStudio
+      - title: PSMF
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "The platform to generate a master file with the same model for all customers with customer data"
 
-      - title: Tempo
+      - title: UMP
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "The platform to record each employee's working time for each project and expense reimbursements"
 
-      - title: Atom
+      - title: LMS
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "It is an e-learning platform for corporate employee training"
 
-      - title: Delta
+      - title: Medica Source
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "The platform to record all hotline requests and perform analysis and report"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+      - title: ATU
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "The platform records the use and effect information of temporarily authorized drugs"
 
-      - title: Atom
+      - title: Medflixs
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "This is the global medical conference web TV platform for medical professionals"
 
-      - title: Delta
+      - title: Medflixs Espace
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A virtual conference platform embed BigBlueButton technologies"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: Partnering
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "This is an event management platform that integrates registration, payment, appointment, and room reservation"
+      
+      - title: Medica on demand
+        link: "#"
+        tagline: "This is a platform that records all the activities of finding doctors for medical research"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Ubp
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "This is a platform to select winners in the field of medical innovation"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PHP & Symfony
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript & jQuery & HTML5 & CSS & Boostrap
         level: 98%
 
-      - name: Angular
+      - name: MySql & Apache & Nginx & Ubuntu & Docker
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: SVN & Git
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: ElasticSearch & ReatJs & Scorm & BigBlueButton & MP4
         level: 60%
 
 footer: >
