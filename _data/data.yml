@@ -144,17 +144,38 @@ skills:
       - name: PHP & Symfony
         level: 98%
 
-      - name: Javascript & jQuery & HTML5 & CSS & Boostrap
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: MySql & Apache & Nginx & Ubuntu & Docker
+      - name: HTML5 & CSS & Boostrap
+        level: 98%
+
+      - name: MySql & Apache & Nginx
+        level: 98%
+
+      - name: Ubuntu & Docker
         level: 98%
 
       - name: SVN & Git
         level: 85%
 
-      - name: ElasticSearch & ReatJs & Scorm & BigBlueButton & MP4
+      - name: ElasticSearch
         level: 60%
+
+      - name: ReatJs
+        level: 60%
+
+      - name: Scorm
+        level: 60%
+
+      - name: BigBlueButton
+        level: 60%
+
+      - name: MP4
+        level: 60%
+
+      - name: Web RTC & Web Socket
+        level: 60%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
