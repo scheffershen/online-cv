@@ -73,11 +73,16 @@ experiences:
         time: 2014 - Present
         company: Universal Medica Groupe, Saint-Cloud, France
         details: |
-          My jobs are to develop new platforms, maintain old platforms, and update old platforms, using Symfony, PHP, Mysql, Bootstrap, jQuery, Ubuntu.
+          My jobs are to develop new platforms, maintain old platforms, and update old platforms, using Symfony, PHP, Mysql, ElasticSearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, Web RTC, Web Socket. 
           - Write specifications with business professionals
+          - Plan development
           - Code the whole platform
           - Perform some unit tests
           - Write a user manual
+          - Install and configure Ubuntu server
+          - Migrate old version Ubuntu
+          - Maintain old platforms
+          - Migrate old platforms
       - role: Web Developer
         time: 1999 - 2013
         company: Empreint Multimedia SA, Paris
