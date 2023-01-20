@@ -145,37 +145,40 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 95%
 
       - name: HTML5 & CSS & Boostrap
-        level: 98%
+        level: 92%
 
       - name: MySql & Apache & Nginx
-        level: 98%
+        level: 89%
 
       - name: Ubuntu & Docker
-        level: 98%
+        level: 86%
 
       - name: SVN & Git
-        level: 85%
+        level: 83%
 
       - name: ElasticSearch
-        level: 60%
+        level: 80%
 
       - name: ReatJs
-        level: 60%
+        level: 77%
+
+      - name: Python
+        level: 74%
 
       - name: Scorm
-        level: 60%
+        level: 71%
 
       - name: BigBlueButton
-        level: 60%
+        level: 68%
 
       - name: MP4 & FFmpeg
-        level: 60%
+        level: 65%
 
       - name: Web RTC & Web Socket
-        level: 60%        
+        level: 61%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
