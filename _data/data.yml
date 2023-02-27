@@ -73,15 +73,15 @@ experiences:
         time: 2014 - Present
         company: Universal Medica Groupe, Saint-Cloud, France
         details: |
-          Mes tâches consistent à développer de nouvelles plateformes, maintenir les anciennes et les mettre à jour, en utilisant Symfony, PHP, Mysql, ElasticSearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, Web RTC et Web Socket.
-          
-          Je rédige les spécifications avec les professionnels de l'entreprise, planifie le développement, code l'ensemble de la plateforme, effectue certains tests unitaires, rédige un manuel utilisateur, installe et configure le serveur Ubuntu, migre les anciennes versions d'Ubuntu, assure la maintenance des anciennes plateformes et les migre si nécessaire.
+          Je suis en charge de développer de nouvelles plateformes, de maintenir les anciennes et de les mettre à jour. Pour cela, j'utilise Symfony, PHP, MySQL, ElasticSearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, WebRTC et WebSocket.
+
+          Je travaille en collaboration avec les professionnels de l'entreprise pour rédiger les spécifications, planifier le développement, coder la plateforme, effectuer certains tests unitaires, rédiger un manuel utilisateur, installer et configurer le serveur Ubuntu, migrer les anciennes versions d'Ubuntu, assurer la maintenance des anciennes plateformes et les migrer si nécessaire.
 
       - role: Développeur PHP
         time: 1999 - 2013
         company: Empreint Multimedia SA, Paris
         details: |
-          Mon travail consistait à créer une plateforme de télévision sur le web, puis à la maintenir et la mettre à jour en utilisant PHP, Mysql, Bootstrap, jQuery et Ubuntu.
+          J'étais chargé de concevoir une plateforme de WebTV pour le web, puis de la maintenir et de la mettre à jour en utilisant PHP, Mysql, Bootstrap, jQuery et Ubuntu.
 projects:
     title: Projects
     intro: >
@@ -129,7 +129,7 @@ projects:
 
       - title: Ubp
         link: "#"
-        tagline: "Plateforme pour sélectionner les gagnants dans le domaine de l'innovation médicale."
+        tagline: "Plateforme pour sélectionner les gagnants dans le domaine de l'innovation médicale"
 
 skills:
     title: Skills &amp; Proficiency
