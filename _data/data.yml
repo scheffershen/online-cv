@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Symfony Full Stack Developer with more than 20 years experiences in web development.
+      Développeur Symfony Full Stack avec plus de 20 ans d'expérience dans le développement web.
 education:
     title: Education
     info:
@@ -69,73 +69,67 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Web Developer
+      - role: Développeur Symfony
         time: 2014 - Present
         company: Universal Medica Groupe, Saint-Cloud, France
         details: |
-          My jobs are to develop new platforms, maintain old platforms, and update old platforms, using Symfony, PHP, Mysql, ElasticSearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, Web RTC, Web Socket. 
-          - Write specifications with business professionals
-          - Plan development
-          - Code the whole platform
-          - Perform some unit tests
-          - Write a user manual
-          - Install and configure Ubuntu server
-          - Migrate old version Ubuntu
-          - Maintain old platforms
-          - Migrate old platforms
-      - role: Web Developer
+          Mes tâches consistent à développer de nouvelles plateformes, maintenir les anciennes et les mettre à jour, en utilisant Symfony, PHP, Mysql, ElasticSearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, Web RTC et Web Socket.
+          
+          Je rédige les spécifications avec les professionnels de l'entreprise, planifie le développement, code l'ensemble de la plateforme, effectue certains tests unitaires, rédige un manuel utilisateur, installe et configure le serveur Ubuntu, migre les anciennes versions d'Ubuntu, assure la maintenance des anciennes plateformes et les migre si nécessaire.
+
+      - role: Développeur PHP
         time: 1999 - 2013
         company: Empreint Multimedia SA, Paris
         details: |
-          My job was to create a web TV platform, and then maintain and update it using PHP, Mysql, Bootstrap, jQuery, Ubuntu.
+          Mon travail consistait à créer une plateforme de télévision sur le web, puis à la maintenir et la mettre à jour en utilisant PHP, Mysql, Bootstrap, jQuery et Ubuntu.
 projects:
     title: Projects
     intro: >
-      I had carried out many of the company's projects for its business needs, its customers and its general public.
+      J'ai réalisé de nombreux projets pour répondre aux besoins de l'entreprise, de ses clients et du grand public.
     assignments:
       - title: Veille
         link: "#hook"
-        tagline: "The plateforme to detect keywords in medical journals at PDF format"
+        tagline: "Plateforme pour détecter les mots-clés dans les revues médicales au format PDF"
 
       - title: PSMF
         link: "#"
-        tagline: "The platform to generate a master file with the same model for all customers with customer data"
+        tagline: "Plateforme pour générer un dossier maître avec le même modèle pour tous les clients avec les données client"
 
       - title: UMP
         link: "#"
-        tagline: "The platform to record each employee's working time for each project and expense reimbursements"
+        tagline: "Plateforme pour enregistrer le temps de travail de chaque employé pour chaque projet et les remboursements de dépenses"
 
       - title: LMS
         link: "#"
-        tagline: "It is an e-learning platform for corporate employee training"
+        tagline: "Plateforme de formation en ligne pour la formation des employés d'entreprise"
 
       - title: Medica Source
         link: "#"
-        tagline: "The platform to record all hotline requests and perform analysis and report"
+        tagline: "Plateforme pour enregistrer toutes les demandes d'assistance téléphonique et effectuer des analyses et des rapports"
 
       - title: ATU
         link: "#"
-        tagline: "The platform records the use and effect information of temporarily authorized drugs"
+        tagline: "Plateforme pour enregistrer les informations d'utilisation et d'effets des médicaments autorisés temporairement"
 
       - title: Medflixs
         link: "#"
-        tagline: "This is the global medical conference web TV platform for medical professionals"
+        tagline: "Plateforme mondiale de conférence médicale sur le web pour les professionnels de la santé"
 
       - title: Medflixs Espace
         link: "#"
-        tagline: "A virtual conference platform embed BigBlueButton technologies"
+        tagline: "Plateforme de conférence virtuelle intégrant les technologies BigBlueButton"
 
       - title: Partnering
         link: "#"
-        tagline: "This is an event management platform that integrates registration, payment, appointment, and room reservation"
+        tagline: "Plateforme de gestion d'événements intégrant l'inscription, le paiement, les rendez-vous et la réservation de salle"
       
       - title: Medica on demand
         link: "#"
-        tagline: "This is a platform that records all the activities of finding doctors for medical research"
+        tagline: "Plateforme pour enregistrer toutes les activités de recherche de médecins pour la recherche médicale"
 
       - title: Ubp
         link: "#"
-        tagline: "This is a platform to select winners in the field of medical innovation"
+        tagline: "Plateforme pour sélectionner les gagnants dans le domaine de l'innovation médicale."
 
 skills:
     title: Skills &amp; Proficiency
