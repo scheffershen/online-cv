@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yi SHEN
-    tagline: Symfony Full Stack Developer
+    tagline: Développeur Symfony Full Stack et Développeur AI 
     avatar: yi.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Développeur Symfony Full Stack avec plus de 20 ans d'expérience dans le développement web.
+      Développeur Symfony Full Stack avec plus de 20 ans d’expérience dans le développement web et Développeur AI
 education:
     title: Education
     info:
@@ -73,15 +73,15 @@ experiences:
         time: 2014 - Present
         company: Universal Medica Groupe, Saint-Cloud, France
         details: |
-          Je suis en charge de développer de nouvelles plateformes, de maintenir les anciennes et de les mettre à jour. Pour cela, j'utilise Symfony, PHP, MySQL, ElasticSearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, WebRTC et WebSocket.
+          Développement de nouvelles plateformes, maintenance des anciennes et mise à jour en utilisant Symfony, PHP, MySQL, Elasticsearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, WebRTC et WebSocket.
 
-          Je travaille en collaboration avec les professionnels de l'entreprise pour rédiger les spécifications, planifier le développement, coder la plateforme, effectuer certains tests unitaires, rédiger un manuel utilisateur, installer et configurer le serveur Ubuntu, migrer les anciennes versions d'Ubuntu, assurer la maintenance des anciennes plateformes et les migrer si nécessaire.
+          Collaboration avec les professionnels de l’entreprise pour rédiger les spécifications, planifier le développement, coder la plateforme, effectuer certains tests unitaires, rédiger un manuel utilisateur, installer et configurer le serveur Ubuntu, migrer les anciennes versions d’Ubuntu, assurer la maintenance des anciennes plateformes et les migrer si nécessaire.
 
       - role: Développeur PHP
         time: 1999 - 2013
         company: Empreint Multimedia SA, Paris
         details: |
-          J'étais chargé de concevoir une plateforme de WebTV pour le web, puis de la maintenir et de la mettre à jour en utilisant PHP, Mysql, Bootstrap, jQuery et Ubuntu.
+          Conception, maintenance et mise à jour d'une plateforme de WebTV pour le web en utilisant PHP, MySQL, Bootstrap, jQuery et Ubuntu.
 projects:
     title: Projects
     intro: >
@@ -109,7 +109,7 @@ projects:
 
       - title: ATU
         link: "#"
-        tagline: "Plateforme pour enregistrer les informations d'utilisation et d'effets des médicaments autorisés temporairement"
+        tagline: "Plateforme pour enregistrer les informations d'utilisation et les effets des médicaments autorisés temporairement"
 
       - title: Medflixs
         link: "#"
@@ -123,11 +123,11 @@ projects:
         link: "#"
         tagline: "Plateforme de gestion d'événements intégrant l'inscription, le paiement, les rendez-vous et la réservation de salle"
       
-      - title: Medica on demand
+      - title: Medica on Demand
         link: "#"
         tagline: "Plateforme pour enregistrer toutes les activités de recherche de médecins pour la recherche médicale"
 
-      - title: Ubp
+      - title: UBP
         link: "#"
         tagline: "Plateforme pour sélectionner les gagnants dans le domaine de l'innovation médicale"
 
@@ -156,11 +156,11 @@ skills:
       - name: ElasticSearch
         level: 80%
 
-      - name: ReatJs
-        level: 77%
-
       - name: Python
         level: 74%
+
+      - name: ChatGPT & AI API
+        level: 73%
 
       - name: Scorm
         level: 71%
