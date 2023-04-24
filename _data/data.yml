@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yi SHEN
-    tagline: Développeur Symfony Full Stack et Développeur Robots d'IA 
+    tagline: Développeur Symfony Full Stack et Développeur Python OpenAI Full Stack
     avatar: yi.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Après une formation en sciences, je me suis passionné pour les nouvelles technologies et j'ai continué à élargir mes connaissances tout au long de ma carrière. J'ai commencé mon parcours professionnel en tant qu'ingénieur géophysicien avant de passer à des rôles de développeur web utilisant PHP et Symfony. Actuellement, je me concentre sur le développement de robots d'IA. 
+      Après une formation en sciences, je me suis passionné pour les nouvelles technologies et j'ai continué à élargir mes connaissances tout au long de ma carrière. J'ai commencé mon parcours professionnel en tant qu'ingénieur géophysicien avant de passer à des rôles de développeur web utilisant PHP et Symfony. Actuellement, je me concentre sur le développement de OpenAI par Python.
 education:
     title: Education
     info:
@@ -76,6 +76,8 @@ experiences:
           Développement de nouvelles plateformes, maintenance des anciennes et mise à jour en utilisant Symfony, PHP, MySQL, Elasticsearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, WebRTC et WebSocket.
 
           Collaboration avec les professionnels de l’entreprise pour rédiger les spécifications, planifier le développement, coder la plateforme, effectuer certains tests unitaires, rédiger un manuel utilisateur, installer et configurer le serveur Ubuntu, migrer les anciennes versions d’Ubuntu, assurer la maintenance des anciennes plateformes et les migrer si nécessaire.
+
+          AI technologie comme OpenAI, LLMs, LangChain, Embedding, Vector Store, Semantic Search, Fine-tune, Python, Jupyter, Streamlit
 
       - role: Développeur PHP
         time: 1999 - 2013
@@ -156,12 +158,9 @@ skills:
       - name: ElasticSearch
         level: 80%
 
-      - name: Python
-        level: 74%
-
-      - name: ChatGPT & AI API
+      - name: Python & OpenAI & LangChain
         level: 73%
-
+        
       - name: Scorm
         level: 71%
 
