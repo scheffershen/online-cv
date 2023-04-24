@@ -73,7 +73,7 @@ experiences:
         time: 2014 - Present
         company: Universal Medica Groupe, Saint-Cloud, France
         details: |
-          Développement de nouvelles plateformes, maintenance des anciennes et mise à jour en utilisant Symfony, PHP, MySQL, Elasticsearch, Bootstrap, jQuery, Ubuntu, MP4, BigBlueButton, Scorm, WebRTC et WebSocket.
+          Développement de nouvelles plateformes, maintenance des anciennes et mise à jour en utilisant Symfony, PHP, MySQL, Elasticsearch, Bootstrap, jQuery, Ubuntu, Docker, Ladp, SSO, MP4, Imagic, FFMEG, Streaming, BigBlueButton, Scorm, WebRTC et WebSocket
 
           Collaboration avec les professionnels de l’entreprise pour rédiger les spécifications, planifier le développement, coder la plateforme, effectuer certains tests unitaires, rédiger un manuel utilisateur, installer et configurer le serveur Ubuntu, migrer les anciennes versions d’Ubuntu, assurer la maintenance des anciennes plateformes et les migrer si nécessaire.
 
@@ -160,7 +160,7 @@ skills:
 
       - name: Python & OpenAI & LangChain
         level: 73%
-        
+
       - name: Scorm
         level: 71%
 
